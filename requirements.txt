@@ -1,0 +1,16 @@
+dash==0.27.0
+dash-core-components==0.30.2
+dash-html-components==0.13.2
+dash-renderer==0.14.1
+dill==0.2.8.2
+Flask==1.0.2
+Flask-Compress==1.4.0
+Flask-Cors==3.0.4
+gunicorn==19.9.0
+Jinja2==2.10
+numpy==1.14.3
+pandas==0.23.0
+plotly==3.2.1
+requests==2.18.4
+scikit-learn==0.19.1
+scipy==1.1.0

@@ -1,0 +1,7 @@
+pandas
+numpy
+dill
+flask
+jinja2
+pip
+requests
